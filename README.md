@@ -96,9 +96,17 @@
 
 
 
+### 美术环境流程
+
+- [Unity和Substance Painter的Look Dev显示校准 - 冯乐乐](https://edu.uwa4d.com/course-intro/0/221)
+
+
+
 ### UE渲染
 
 - [虚幻4渲染编程专题概述及目录](https://zhuanlan.zhihu.com/p/36675543)
+
+
 
 
 
@@ -111,3 +119,15 @@
 ### 开源字体
 
 - [得意黑](https://atelier-anchor.com/typefaces/smiley-sans)
+
+
+
+### 天空球
+
+- [HDRI Haven](https://polyhaven.com/hdris)
+
+
+
+### 优质模型
+
+- [Meet MAT 2 mesh - Sketchfab](https://sketchfab.com/3d-models/meet-mat-2-mesh-dbe61b1ffdeb4944a9ad99ee78cc841b)
