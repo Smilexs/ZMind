@@ -9,8 +9,25 @@
 
 
 
-### Unity编辑器工具
+### 程序工具集
+
+##### 编辑器类
+
 * [Favorites Asset Window](https://github.com/MasyoLab/UnityTools-FavoritesAsset) 支持资源加入收藏夹，方便快速访问
+* [Project Context Actions](https://assetstore.unity.com/packages/tools/utilities/project-context-actions-267429) 便捷创建文件夹、脚本、材质等资源文件
+* [CoInspector](https://assetstore.unity.com/packages/tools/utilities/coinspector-split-inspection-tabs-history-278831) 编辑器功能增强，包含历史标签页、场景会话（从上次离开的地方继续工作）等
+
+##### Prefab类
+
+- [Prefab Fixer & Replacer Tool](https://assetstore.unity.com/packages/tools/utilities/prefab-fixer-replacer-tool-229947) Prefab批量修复 替换等
+
+##### 构建类
+
+* [Exclude From Build](https://assetstore.unity.com/packages/tools/utilities/exclude-from-build-222791) 控制某些资源（文件 对象 组件）可以不参与构建
+
+##### 动画类
+
+- [Body Proportions](https://assetstore.unity.com/packages/tools/modeling/body-proportions-266535) 通过缩放骨骼的方式改变2D或3D模型的身体比例
 
 
 
@@ -28,7 +45,7 @@
 
 ### 综合性
 
-**教程**
+##### **教程**
 
 - GAMES101
 - GAMES202
@@ -37,7 +54,7 @@
 - [GAMES106 - 现代图形绘制流水线原理与实践](https://zju-rendering.github.io/games106/)
 - [GAMES001 - 图形学中的数学](https://www.bilibili.com/video/BV1MF4m1V7e3/?spm_id_from=333.1245.0.0&vd_source=e4462eae7603ce4fcb071035bd5f923a)
 
-**书籍**
+##### **书籍**
 
 * [Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) RTR4中文版
 * [GPU Gem](https://developer.nvidia.com/gpugems/gpugems/contributors)
@@ -47,7 +64,7 @@
 * [Filament中基于物理的渲染（中文版）](https://jerkwin.github.io/filamentcn/Filament.md.html#关于)
 * [全局光照技术：从离线到实时渲染](https://github.com/ElvisQin/thegibook)
 
-**博客**
+##### **博客**
 
 * [历年图形渲染相关的演讲](https://candycat1992.github.io/2022/06/11/graphics-talks/) - 冯乐乐
 * [百人计划-渲染教程框架目录](https://docs.qq.com/doc/DUFdKZE1oVFd3ZlBs)
@@ -99,6 +116,37 @@
 ### 美术环境流程
 
 - [Unity和Substance Painter的Look Dev显示校准 - 冯乐乐](https://edu.uwa4d.com/course-intro/0/221)
+
+
+
+### 渲染案例
+
+##### 描边
+
+- [Linework - Alexander Ameye](https://assetstore.unity.com/packages/vfx/shaders/linework-294140) 插件
+- [5 ways to draw an outline](https://ameye.dev/notes/rendering-outlines/) - Alexander Ameye
+
+
+
+### 角色渲染
+
+
+
+### 场景渲染
+
+##### 体积雾
+
+- [Volumetric fog, area lights and tube lights - Unity](https://github.com/Unity-Technologies/VolumetricLighting/tree/master) Area光源、Tube光源的实现，体积雾的实现
+
+### 特效渲染
+
+
+
+### 渲染工具集
+
+##### 绘制类
+
+- [uPainter](https://assetstore.unity.com/packages/tools/painting/upainter-162653?locale=zh-CN) 插件，在Unity上实现PS的绘制效果
 
 
 
