@@ -134,11 +134,23 @@
 
 ### 场景渲染
 
+##### 体积光
+
+- [Volumetric Lights 2](https://assetstore.unity.com/packages/vfx/shaders/volumetric-lights-2-234539) - Kronnect
+
 ##### 体积雾
 
 - [Volumetric fog, area lights and tube lights - Unity](https://github.com/Unity-Technologies/VolumetricLighting/tree/master) Area光源、Tube光源的实现，体积雾的实现
 
+##### 世界地图
+
+- [World Maps Pro Bundle 2](https://assetstore.unity.com/packages/tools/gui/world-maps-pro-bundle-2-151240) - Kronnect，包含地球上各区域标识、航线等
+
 ### 特效渲染
+
+##### 液体
+
+- [Liquid Volume Pro 2](https://assetstore.unity.com/packages/vfx/shaders/liquid-volume-pro-2-129967) - Kronnect，如瓶内的液体
 
 
 
