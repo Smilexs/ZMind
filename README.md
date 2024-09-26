@@ -123,14 +123,27 @@
 
 ##### 描边
 
-- [Linework - Alexander Ameye](https://assetstore.unity.com/packages/vfx/shaders/linework-294140) 插件
-- [5 ways to draw an outline](https://ameye.dev/notes/rendering-outlines/) - Alexander Ameye
+- [Linework](https://assetstore.unity.com/packages/vfx/shaders/linework-294140) - Alexander Ameye
+- [5 ways to draw an outline](https://ameye.dev/notes/rendering-outlines/) - Alexander Ameye ，原理讲解
+
+##### 晶体
+
+- [Translucent Crystals](https://assetstore.unity.com/packages/3d/environments/fantasy/translucent-crystals-106274) - SineVFX ，简单的风格化晶体，采用PBR光照，配合透明度贴图控制整体透明度
+- [Ultimate Crystal Pack](https://assetstore.unity.com/packages/3d/environments/fantasy/ultimate-crystal-pack-224319) - Adventure Assets，PBR光照、视差技术 Glitter 抓屏实现内部光照、Rim、Color Gradient等来渲染晶体
+- [Volumetric Crystal Materials Pack](https://assetstore.unity.com/packages/vfx/shaders/substances/volumetric-crystal-materials-pack-105951#content) - Funckronic Labs 视差实现晶体内部效果、单Shader支持Buildin URP
+- [Better Crystals](https://assetstore.unity.com/packages/vfx/shaders/better-crystals-235002) - SineVFX
+
+##### 液体
+
+- [Liquid Volume Pro 2](https://assetstore.unity.com/packages/vfx/shaders/liquid-volume-pro-2-129967) - Kronnect，如瓶内的液体
 
 
 
 ### 角色渲染
 
+##### 捏脸
 
+- [Character Customizer](https://assetstore.unity.com/packages/tools/game-toolkits/character-customizer-241861)
 
 ### 场景渲染
 
@@ -147,10 +160,6 @@
 - [World Maps Pro Bundle 2](https://assetstore.unity.com/packages/tools/gui/world-maps-pro-bundle-2-151240) - Kronnect，包含地球上各区域标识、航线等
 
 ### 特效渲染
-
-##### 液体
-
-- [Liquid Volume Pro 2](https://assetstore.unity.com/packages/vfx/shaders/liquid-volume-pro-2-129967) - Kronnect，如瓶内的液体
 
 
 
