@@ -3,6 +3,10 @@
 
 ## 程序模块
 
+### 英语
+
+- [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4/tree/main) 由GPT4生成的单词书，涵盖词义、例句、文化背景、记忆技巧等
+
 ### 算法
 
 - [Hello 算法](https://github.com/krahets/hello-algo) 动画图解、一键运行的数据结构与算法教程
@@ -21,13 +25,29 @@
 
 - [Prefab Fixer & Replacer Tool](https://assetstore.unity.com/packages/tools/utilities/prefab-fixer-replacer-tool-229947) Prefab批量修复 替换等
 
+##### 配置表类
+
+- [An Excel Differ](https://github.com/Linzecong/ExcelDiffer?tab=readme-ov-file) Excel的差异对比
+
 ##### 构建类
 
 * [Exclude From Build](https://assetstore.unity.com/packages/tools/utilities/exclude-from-build-222791) 控制某些资源（文件 对象 组件）可以不参与构建
 
 ##### 动画类
 
+- PrimeTween 高性能，兼容DOTween，支持WebGL，0GC，首选
+- LitMotion 高性能
+- MagicTween 基于DOTS的项目，首选
+
 - [Body Proportions](https://assetstore.unity.com/packages/tools/modeling/body-proportions-266535) 通过缩放骨骼的方式改变2D或3D模型的身体比例
+
+
+
+### 战斗模块
+
+##### 血条
+
+- [ECS implementation of damage bubbles](https://github.com/nicloay/ecs-damage-bubbles) 基于ECS的高性能血条
 
 
 
@@ -200,3 +220,9 @@
 ### 优质模型
 
 - [Meet MAT 2 mesh - Sketchfab](https://sketchfab.com/3d-models/meet-mat-2-mesh-dbe61b1ffdeb4944a9ad99ee78cc841b)
+
+
+
+### 平台
+
+- [itch.io](https://itch.io/) 一个专注于独立游戏和创意作品的分享 销售平台
