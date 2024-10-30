@@ -130,6 +130,8 @@
 - [Shader Tutorials by Ronja](https://www.ronja-tutorials.com/?flipped=true) 有50+的基础案例，且提供配套git仓库 [ShaderTutorials](https://github.com/ronja-tutorials/ShaderTutorials)
 - [Universal Shader Examples](https://github.com/phi-lira/UniversalShaderExamples) URP的几个基础案例
 - [Unity Shader Graph Tutorials](https://www.youtube.com/playlist?list=PLpPd_BKEUoYjcFaqriaMchx5gOqBs2tDh) 使用SG实现的基础案例
+- [Blog - Cyanilux](https://www.cyanilux.com/contents/) 一些基础案例，如GodRays、Book、Waterfall、Fractured Cube等
+- [Blog - Harry Alisavakis](https://halisavakis.com/category/blog-posts/) 很多案例，如Water、Interior mapping、Spherical mask等
 
 
 
@@ -150,7 +152,7 @@
 
 - [Translucent Crystals](https://assetstore.unity.com/packages/3d/environments/fantasy/translucent-crystals-106274) - SineVFX ，简单的风格化晶体，采用PBR光照，配合透明度贴图控制整体透明度
 - [Ultimate Crystal Pack](https://assetstore.unity.com/packages/3d/environments/fantasy/ultimate-crystal-pack-224319) - Adventure Assets，PBR光照、视差技术 Glitter 抓屏实现内部光照、Rim、Color Gradient等来渲染晶体
-- [Volumetric Crystal Materials Pack](https://assetstore.unity.com/packages/vfx/shaders/substances/volumetric-crystal-materials-pack-105951#content) - Funckronic Labs 视差实现晶体内部效果、单Shader支持Buildin URP
+- [Volumetric Crystal Materials Pack](https://assetstore.unity.com/packages/vfx/shaders/substances/volumetric-crystal-materials-pack-105951#content) - Funckronic Labs 视差实现晶体内部效果、**单Shader支持Buildin URP**
 - [Better Crystals](https://assetstore.unity.com/packages/vfx/shaders/better-crystals-235002) - SineVFX
 
 ##### 液体
@@ -164,6 +166,11 @@
 ##### 捏脸
 
 - [Character Customizer](https://assetstore.unity.com/packages/tools/game-toolkits/character-customizer-241861)
+
+##### 头发
+
+- [Unity China HairFX 毛发系统使用说明](https://learn.u3d.cn/tutorial/Unity-HairFX-Tutorial)
+- [HDRP-Defender Character Demo](https://github.com/UnityTechnologies/HDRP-Defender-Character-Demo) TressFX Hair的Demo案例
 
 ### 场景渲染
 
