@@ -1,11 +1,91 @@
 # ZMind
 
+## 发现新大陆
 
-## 程序模块
+### 游戏开发
+
+- [Github](https://github.com/topics/unity)
+- [Unity Asset Store](https://assetstore.unity.com/publishers/1)
+- [Unity Discussions](https://discussions.unity.com/)
+- 
+- [80Level](https://80.lv/)
+- [anything_about_game](https://github.com/killop/anything_about_game) - 夜莺
+
+
+
+### 游戏开发资源
+
+##### 资源网站
+
+- [Fab](https://www.fab.com/) 集合UE Marketplace、Sketchfab、Quixel Megascans、ArtStation Merketplace的数字资产资源
+
+##### 开源字体
+
+- [得意黑](https://atelier-anchor.com/typefaces/smiley-sans)
+
+##### 天空球
+
+- [HDRI Haven](https://polyhaven.com/hdris)
+
+##### 优质模型
+
+- [Meet MAT 2 mesh - Sketchfab](https://sketchfab.com/3d-models/meet-mat-2-mesh-dbe61b1ffdeb4944a9ad99ee78cc841b)
+
+
+
+### 游戏平台
+
+- [Switch618公益分享](https://www.switch618.com/) PC游戏 Switch游戏下载
+- [itch.io](https://itch.io/) 一个专注于独立游戏和创意作品的分享 销售平台
+- [小狸源码网](https://www.agmsy.com/) 搭建私服
+
+
+
+### 在线应用
+
+- [超级云短信接码平台](https://www.supercloudsms.com/) 虚拟手机号
+
+
+
+### 软件
+
+##### 知识管理
+
+- [anytype](https://anytype.io/) 知识管理工具
+
+
+
+### 数学
+
+- [四都教育](https://www.sudoedu.com/) 高等数学、线性代数、概率论、复变函数、微分方程
+
+
 
 ### 英语
 
 - [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4/tree/main) 由GPT4生成的单词书，涵盖词义、例句、文化背景、记忆技巧等
+
+
+
+
+
+------
+
+
+
+## 程序模块
+
+### 程序综合性教程
+
+##### 视频教程
+
+- [计算机科学速成课](https://www.bilibili.com/video/BV1EW411u7th/?spm_id_from=333.999.0.0&vd_source=e4462eae7603ce4fcb071035bd5f923a)
+
+##### 博客
+
+- [Red Blob Games](https://www.redblobgames.com/)
+
+
 
 ### 算法
 
@@ -63,9 +143,9 @@
 
 ## 渲染模块
 
-### 综合性
+### 渲染综合性教程
 
-##### **教程**
+##### **视频课程**
 
 - GAMES101
 - GAMES202
@@ -86,9 +166,24 @@
 
 ##### **博客**
 
+* [Catlikecoding](https://catlikecoding.com/unity/tutorials/)
+* [The Book of Shaders](https://thebookofshaders.com/?lan=ch)
+* [Scratchapixel 4.0](https://www.scratchapixel.com/) Computer Graphics教程
 * [历年图形渲染相关的演讲](https://candycat1992.github.io/2022/06/11/graphics-talks/) - 冯乐乐
 * [百人计划-渲染教程框架目录](https://docs.qq.com/doc/DUFdKZE1oVFd3ZlBs)
 * [Unity3D高级编程：主程手记](http://www.luzexi.com/) - luzexi
+* [Coding labs](http://www.codinglabs.net/default.aspx)
+* [Inigo Quilez Blog](https://iquilezles.org/articles/) - IQ大神
+* [BottomSea Blog](https://blog.demofox.org/)
+* [Ronja Shader Blog](https://www.ronja-tutorials.com/)
+* [Xiong（Unity内嵌着色器的作者）的图形学习](http://www.xionggf.com/)
+* [Oimo Blog](https://blog.oimo.io/)
+
+##### DCC教程
+
+- [AboutCG](https://www.aboutcg.org/)
+- [Substance 3D Tutorials](https://substance3d.adobe.com/tutorials)
+- [Daz 3D Tutorials](https://www.daz3d.com/help/help-daz-3d-video-tutorials)
 
 
 
@@ -102,6 +197,9 @@
 
 ### Open GL
 
+- [LearnOpenGL-CN](https://learnopengl-cn.readthedocs.io/zh/latest/01%20Getting%20started/04%20Hello%20Triangle/)
+- [LearnOpenGL](https://learnopengl.com/Introduction)
+- [OpenGL Tutorial](http://www.opengl-tutorial.org/cn/beginners-tutorials/)
 - [OpenGL ES Programming Guide](https://developer.apple.com/library/archive/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008793-CH1-SW1) Apple公司的开发文档
 
 
@@ -141,7 +239,7 @@
 
 
 
-### 渲染案例
+### 通用渲染
 
 ##### 描边
 
@@ -185,8 +283,26 @@
 ##### 世界地图
 
 - [World Maps Pro Bundle 2](https://assetstore.unity.com/packages/tools/gui/world-maps-pro-bundle-2-151240) - Kronnect，包含地球上各区域标识、航线等
+- [Depiction Engine For Unity](https://github.com/VIZ-Interactive/Depiction-Engine-Unity) 用于为游戏或地理空间应用程序创建和传输大型 3D 世界的多功能引擎
+
+
 
 ### 特效渲染
+
+
+
+
+
+### 渲染调试
+
+- [Runtime Debugger](https://assetstore.unity.com/packages/tools/utilities/runtime-debugger-source-code-285916) 真机运行时Debug
+- [Draw XXL](https://assetstore.unity.com/packages/tools/utilities/draw-xxl-246836) 便捷绘制gizmos 可视化调试
+
+
+
+### 渲染逆向
+
+
 
 
 
@@ -209,27 +325,3 @@
 ------
 
 
-
-## 优质资源
-
-### 开源字体
-
-- [得意黑](https://atelier-anchor.com/typefaces/smiley-sans)
-
-
-
-### 天空球
-
-- [HDRI Haven](https://polyhaven.com/hdris)
-
-
-
-### 优质模型
-
-- [Meet MAT 2 mesh - Sketchfab](https://sketchfab.com/3d-models/meet-mat-2-mesh-dbe61b1ffdeb4944a9ad99ee78cc841b)
-
-
-
-### 平台
-
-- [itch.io](https://itch.io/) 一个专注于独立游戏和创意作品的分享 销售平台
