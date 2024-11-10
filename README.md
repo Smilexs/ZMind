@@ -7,7 +7,6 @@
 - [Github](https://github.com/topics/unity)
 - [Unity Asset Store](https://assetstore.unity.com/publishers/1)
 - [Unity Discussions](https://discussions.unity.com/)
-- 
 - [80Level](https://80.lv/)
 - [anything_about_game](https://github.com/killop/anything_about_game) - 夜莺
 
@@ -128,6 +127,7 @@
 ##### 血条
 
 - [ECS implementation of damage bubbles](https://github.com/nicloay/ecs-damage-bubbles) 基于ECS的高性能血条
+- [Gimme Instanced Health Bars](https://assetstore.unity.com/packages/vfx/shaders/gimme-instanced-health-bars-259079?srsltid=AfmBOopV1DnU5J6CJr6jhS0h1EszWrY4IKiN3g8wpsyESXQks4RO1PtM) 塔防 策略游戏的高性能血条（本地已有）
 
 
 
@@ -323,5 +323,4 @@
 
 
 ------
-
 
