@@ -131,6 +131,14 @@
 
 
 
+### 性能优化
+
+##### overdraw优化
+
+- [根据贴图来动态生成mesh的工具](https://zhuanlan.zhihu.com/p/678481238) 对quad mesh进行裁剪优化，利用贴图像素生成点集，计算点集的凸包（Andrew's Monotone Chain算法）、对凸包的点进行三角化（德劳内三角剖分Delaunay triangulation）
+
+
+
 ### DOTS
 
 - [《DOTS之路》系列课程](https://space.bilibili.com/1311706157/channel/collectiondetail?sid=747598) - 大衍神君
