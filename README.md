@@ -145,6 +145,14 @@
 
 
 
+### AI
+
+##### 升分辨率
+
+- [Unity XScaling Framework](https://github.com/DevsDaddy/UnityXScaling?tab=readme-ov-file) 将低分辨率的图生成高分辨率的图（如可用于UI图片、材质贴图）、相机渲染的RT分辨率提升（super-resolution），不过算法过程会创建大量的RT
+
+
+
 ------
 
 
