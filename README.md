@@ -48,6 +48,10 @@
 
 ### 软件
 
+##### 工具合集
+
+- [工具合集-git源宝](https://github.com/gityuanbao/share) 在线视频下载相关、压缩包破解等
+
 ##### 知识管理
 
 - [anytype](https://anytype.io/) 知识管理工具
