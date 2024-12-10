@@ -221,6 +221,7 @@
 - [LearnOpenGL](https://learnopengl.com/Introduction)
 - [OpenGL Tutorial](http://www.opengl-tutorial.org/cn/beginners-tutorials/)
 - [OpenGL ES Programming Guide](https://developer.apple.com/library/archive/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008793-CH1-SW1) Apple公司的开发文档
+- [Shader艺术编码入门介绍(An introduction to Shader Art Coding)](https://www.bilibili.com/video/BV1DM4y1n7eB/?spm_id_from=333.1245.0.0&vd_source=e4462eae7603ce4fcb071035bd5f923a) shadertoy使用入门
 
 
 
@@ -296,9 +297,19 @@
 
 - [Volumetric Lights 2](https://assetstore.unity.com/packages/vfx/shaders/volumetric-lights-2-234539) - Kronnect
 
+##### 雾效
+
+- [Atmospheric GPU Fog Particles](https://github.com/MirzaBeig/GPU-Fog-Particles) 看着是由Particle System发射很多粒子来模拟体积雾
+- [WarFogPlusAI](https://github.com/Ezharjan/WarFogPlusAI) 渲染可见区域的战争迷雾
+- [TasharenFogOfWar](https://github.com/insominx/TasharenFogOfWar) 战争迷雾
+- [SLG大地图高度雾实现步骤](https://www.bilibili.com/opus/887060997480644610?spm_id_from=333.1035.0.0) 基于场景对象的渲染来实现
+- [SLG大地图迷雾实现思路](https://www.bilibili.com/opus/885595730732908563)
+
 ##### 体积雾
 
 - [Volumetric fog, area lights and tube lights - Unity](https://github.com/Unity-Technologies/VolumetricLighting/tree/master) Area光源、Tube光源的实现，体积雾的实现
+- [UnityFakeVolumetricFog](https://github.com/yasuohasegawa/UnityFakeVolumetricFog) 通过 Compute Shader和实例化技术 实现的模拟体积雾
+- [Very simple fake fog/volumetric light shader for Unity](https://github.com/ldalzotto/UnityFakeFog_Volumetric?tab=readme-ov-file) 基于sphere模拟的体积雾
 
 ##### 世界地图
 
