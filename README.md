@@ -299,7 +299,6 @@
 
 ##### 雾效
 
-- [Atmospheric GPU Fog Particles](https://github.com/MirzaBeig/GPU-Fog-Particles) 看着是由Particle System发射很多粒子来模拟体积雾
 - [WarFogPlusAI](https://github.com/Ezharjan/WarFogPlusAI) 渲染可见区域的战争迷雾
 - [TasharenFogOfWar](https://github.com/insominx/TasharenFogOfWar) 战争迷雾
 - [SLG大地图高度雾实现步骤](https://www.bilibili.com/opus/887060997480644610?spm_id_from=333.1035.0.0) 基于场景对象的渲染来实现
@@ -308,8 +307,9 @@
 ##### 体积雾
 
 - [Volumetric fog, area lights and tube lights - Unity](https://github.com/Unity-Technologies/VolumetricLighting/tree/master) Area光源、Tube光源的实现，体积雾的实现
+- [Atmospheric GPU Fog Particles](https://github.com/MirzaBeig/GPU-Fog-Particles) 看着是由Particle System发射很多粒子来模拟体积雾
 - [UnityFakeVolumetricFog](https://github.com/yasuohasegawa/UnityFakeVolumetricFog) 通过 Compute Shader和实例化技术 实现的模拟体积雾
-- [Very simple fake fog/volumetric light shader for Unity](https://github.com/ldalzotto/UnityFakeFog_Volumetric?tab=readme-ov-file) 基于sphere模拟的体积雾
+- [Very simple fake fog/volumetric light shader for Unity](https://github.com/ldalzotto/UnityFakeFog_Volumetric?tab=readme-ov-file) 基于sphere模拟(noise+fresnel)的体积雾
 
 ##### 世界地图
 
