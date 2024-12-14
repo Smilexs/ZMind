@@ -50,7 +50,12 @@
 
 ##### 工具合集
 
+- [GitHub520](https://github.com/521xueweihan/GitHub520?tab=readme-ov-file) 解决github访问慢、图片加载不出来
 - [工具合集-git源宝](https://github.com/gityuanbao/share) 在线视频下载相关、压缩包破解等
+
+##### 自建网站
+
+- [NotionNext](https://github.com/tangly1024/NotionNext) 自塔网站，notion笔记可直接发布
 
 ##### 知识管理
 
