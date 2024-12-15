@@ -316,6 +316,15 @@
 - [UnityFakeVolumetricFog](https://github.com/yasuohasegawa/UnityFakeVolumetricFog) 通过 Compute Shader和实例化技术 实现的模拟体积雾
 - [Very simple fake fog/volumetric light shader for Unity](https://github.com/ldalzotto/UnityFakeFog_Volumetric?tab=readme-ov-file) 基于sphere模拟(noise+fresnel)的体积雾
 
+##### 烟雾
+
+- [Dynamic Smoke System - Responsive, Volumetric & Interactive Smoke Grenades](https://assetstore.unity.com/packages/vfx/shaders/dynamic-smoke-system-responsive-volumetric-interactive-smoke-gre-256276) 可交互烟雾
+
+##### 云
+
+- [Sky Clouds URP: Fluffy Cloud Shader](https://assetstore.unity.com/packages/tools/particles-effects/sky-clouds-urp-fluffy-cloud-shader-288138) 风格化的云效果
+- [True Clouds/Fog (Mobile & PC)](https://assetstore.unity.com/packages/tools/particles-effects/true-clouds-fog-mobile-pc-107379#reviews)
+
 ##### 世界地图
 
 - [World Maps Pro Bundle 2](https://assetstore.unity.com/packages/tools/gui/world-maps-pro-bundle-2-151240) - Kronnect，包含地球上各区域标识、航线等
