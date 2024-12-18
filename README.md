@@ -323,7 +323,7 @@
 ##### 云
 
 - [Sky Clouds URP: Fluffy Cloud Shader](https://assetstore.unity.com/packages/tools/particles-effects/sky-clouds-urp-fluffy-cloud-shader-288138) 风格化的云效果
-- [True Clouds/Fog (Mobile & PC)](https://assetstore.unity.com/packages/tools/particles-effects/true-clouds-fog-mobile-pc-107379#reviews)
+- [True Clouds/Fog (Mobile & PC)](https://assetstore.unity.com/packages/tools/particles-effects/true-clouds-fog-mobile-pc-107379#reviews) 基于屏幕空间深度图、法线图，噪声图来渲染出云、雾的效果（本地已下载）
 
 ##### 世界地图
 
