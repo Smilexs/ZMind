@@ -126,8 +126,8 @@
 - PrimeTween 高性能，兼容DOTween，支持WebGL，0GC，首选
 - LitMotion 高性能
 - MagicTween 基于DOTS的项目，首选
-
 - [Body Proportions](https://assetstore.unity.com/packages/tools/modeling/body-proportions-266535) 通过缩放骨骼的方式改变2D或3D模型的身体比例
+- [Curve Master](https://assetstore.unity.com/packages/tools/animation/curve-master-252505) 动画曲线编辑（本地已有）
 
 
 
@@ -137,6 +137,10 @@
 
 - [ECS implementation of damage bubbles](https://github.com/nicloay/ecs-damage-bubbles) 基于ECS的高性能血条
 - [Gimme Instanced Health Bars](https://assetstore.unity.com/packages/vfx/shaders/gimme-instanced-health-bars-259079?srsltid=AfmBOopV1DnU5J6CJr6jhS0h1EszWrY4IKiN3g8wpsyESXQks4RO1PtM) 塔防 策略游戏的高性能血条（本地已有）
+
+##### 地图构建
+
+- [Easy Grid Builder Pro](https://assetstore.unity.com/packages/tools/game-toolkits/easy-grid-builder-pro-239234) 建造类（本地已有）
 
 
 
