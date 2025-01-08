@@ -51,6 +51,7 @@
 ##### 工具合集
 
 - [GitHub520](https://github.com/521xueweihan/GitHub520?tab=readme-ov-file) 解决github访问慢、图片加载不出来
+- [独立开发者的精选技术栈和工具仓库](https://github.com/XiaomingX/indie-hacker-tools-plus?tab=readme-ov-file)
 - [工具合集-git源宝](https://github.com/gityuanbao/share) 在线视频下载相关、压缩包破解等
 
 ##### 自建网站
@@ -218,6 +219,8 @@
 
 ### GPU架构
 
+- [上帝视角看GPU](https://space.bilibili.com/2055684362/lists/318149?type=season) - 龚大
+- [AI System - GPU部分](https://github.com/chenzomi12/AISystem/tree/main) - ZOMI酱
 - [深入GPU硬件架构及运行机制](https://www.cnblogs.com/timlly) - 向往
 - [arm develop unity](https://developer.arm.com/documentation/#numberOfResults=48&&cf-navigationhierarchiesproducts=%20Tools%20and%20Software,Third-party%20software,,Unity) arm公司的开发文档
 - [Samsung Developers - GameDev](https://developer.samsung.com/galaxy-gamedev/resources.html) Samsung公司的开发文档
